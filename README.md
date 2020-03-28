@@ -7,3 +7,7 @@ TieDB ("Tie" stands for Ferrum) is an open-source NewSQL database that supports 
 ## Benchmark
 
 [Doc](docs/benchmark.md)
+
+## Bot
+
+![](docs/github-bot.jpg)
